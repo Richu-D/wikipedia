@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    margin:5px
+}
+.container{
+    display: grid;
+    grid-template-columns: 160px 1fr;
+}
+.wikipedia-logo{
+    width: 90%;
+    
+}
+.no-underline:hover{
+    text-decoration: none;
+}
+.more-language-button{
+    background-color:none;
+    padding:6px 3px;
+    margin-top: 5px;
+}
+.left-edit-link{
+    direction: rtl;
+   
+}
+.left-heading{
+    color:#54595d;
+    font-size: 0.75em;
+    font-weight: normal;
+    margin-top:20px;
+    margin-bottom: 5px;
+    border-bottom:1px solid #54595d;
+}
+.left-link-menu{
+    margin: 10px;
+    padding:20px 10px;
+}
+
+.left-link-menu a{
+    display: block;
+}
+.left-side{
+    
+    border-right:1px solid #a7d7f9;
+}
+.right-side{
+    display: grid;
+    grid-template-rows: 30px 40px auto auto;
+}
+
+
+

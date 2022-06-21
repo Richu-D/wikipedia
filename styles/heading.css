@@ -1,0 +1,17 @@
+.heading{
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: small;
+    outline: 1px solid white;
+    
+}
+.heading div{
+    margin:5px 2px;
+    
+
+}
+.left-space{
+    margin-right: 50px;
+}

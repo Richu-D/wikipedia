@@ -1,0 +1,63 @@
+.futures{
+    background-color:white;
+    display: grid;
+    grid-template-columns: 50px 50px 4fr 50px 50px 100px 1fr;
+    border-collapse: collapse;
+}
+
+
+.futures div{
+    padding-top: 10px;    
+}
+.futures-talk{
+    border: 1px solid lightblue;
+    border-top: none;
+    border-right: 0;
+    background-color: rgba(205, 235, 245, 0.932);
+}
+.futures-edit{
+    border: 1px solid lightblue;
+    border-top: none;
+    background-color: rgba(205, 235, 245, 0.932);
+}
+.futures-view-history{
+    border: 1px solid lightblue;
+    border-top: none;
+    border-left: 0;
+    background-color: rgba(205, 235, 245, 0.932);
+}
+.futures .search-bar-div{
+    border-bottom: 1px solid lightblue;
+    padding:3px 2px 1px;    
+}
+.futres-blank{
+    border: 1px solid lightblue;
+    border-top: none;
+}
+.search-bar{
+   
+   height: 95%;
+}
+.search-bar-div{
+    display: grid;
+    grid-template-columns: 1fr 20px;  
+}
+
+.futures .input_feild{
+    padding: 0;
+    border: 1px solid rgb(162 169 177);
+    border-right: none;
+    
+}
+.futures .search_icon{
+    padding-bottom: 5px;
+    width: 100%;
+}
+input{
+    border: none;
+}
+.imgborder{
+    border: 1px solid rgb(162 169 177);
+    border-left: none;
+    
+}

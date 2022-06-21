@@ -1,0 +1,18 @@
+.footer{
+    outline: 1px solid white;
+    font-size: 12px;
+}
+.footer p{
+    margin:13px 0px;
+}
+.footer-links{
+    display: flex;
+   
+}
+.footerdiv{
+display: flex;
+}
+.footerpics{
+    display: flex;
+    margin-left: auto;
+}

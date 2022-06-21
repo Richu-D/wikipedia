@@ -1,0 +1,16 @@
+a{
+    color: #0645ad;
+    text-decoration: none;
+    font-size: 12px;
+    margin: 5px;
+}
+a:hover{
+    text-decoration: underline;
+    text-decoration-color: #0645ad;
+}
+hr{
+    border: 1px solid rgba(128, 128, 128, 0.151);
+}
+ul{
+    margin: 10px 25px;
+}
